@@ -1,0 +1,32 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(118, 92, 92, 1);
+}
+
+.eu{
+    border: 1px solid black;
+    float: left;
+    width: 40%;
+    height:1000px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 0px;
+}
+
+nav{
+    padding: 3%;
+    flex: 60%;
+}
+
+nav a{
+    margin: 5%;
+    text-decoration: none;
+    padding: 0px;
+    font-size: 2.4em;
+    color: black;
+
+}
